@@ -31,6 +31,6 @@ I am always eager to learn and stay updated with the latest advancements in tech
 
 ## 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/profile-manu-m/)) to discuss collaborations, projects, or anything tech-related. I'm open to exciting opportunities and always up for a good tech discussion!
+Feel free to connect with me on ([LinkedIn](https://www.linkedin.com/in/profile-manu-m/)) to discuss collaborations, projects, or anything tech-related. I'm open to exciting opportunities and always up for a good tech discussion!
 
 Happy coding! 😊✨
